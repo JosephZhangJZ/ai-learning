@@ -1,2 +1,3 @@
 Day 1: Installed VS Code, Git, first repo, first commit
 practiced Git basics
+Day 3: Learning branches.
